@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Ernest-Low
 - 🌱 I’m currently learning ...
-Nothing else atm ._.
+Going to be a long journey.
