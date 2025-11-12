@@ -3,9 +3,9 @@
 I'm a **Software Engineer** from Singapore, dedicated to building robust, scalable, and impactful software solutions.
 
 ## About Me
-As a driven and self-motivated Software Engineer, my journey began with a deep fascination for technology and computer engineering. Over the years, I have continuously honed my skills through self-study, professional experience, and specialized training. My technical foundation was strengthened through a **full-stack development program** at General Assembly, where I developed a keen understanding of both frontend and backend technologies.
+A motivated and self-driven Software Engineer with a strong passion for technology and computer engineering, continuously strengthening skills through professional experience, self-directed learning, and specialized training. Full-stack development expertise, gained through a program at General Assembly, provides hands-on experience across both frontend and backend technologies.
 
-Working in dynamic and fast-paced environments has provided me with invaluable experience in tackling complex projects. These opportunities have not only deepened my expertise but also nurtured my adaptability and problem-solving skills. I am committed to advancing my professional growth, embracing challenges, and delivering meaningful contributions to impactful projects in the software engineering domain.
+Experience in dynamic, fast-paced environments has honed problem-solving abilities and adaptability, contributing to the successful delivery of complex projects. Currently pursuing a part-time BTech in Computing at NTU, with a focus on staying at the forefront of emerging technologies, particularly AI-driven solutions, while seeking opportunities to contribute to impactful software engineering projects.
 
 ---
 
@@ -19,7 +19,7 @@ I specialize in a diverse range of tools and technologies, with particular empha
 ---
 
 ## 🌱 Currently Learning
-- Enhancing my backend expertise with **Spring Boot (Java)**, diving deeper into its robust ecosystem for enterprise-grade applications.
+- I'm studying part-time at NTU, for BTech in Computing, looking to specialise in Software Engineering
 - Gaining proficiency in **AWS DevOps** for cloud infrastructure automation and deployment.
 - Revisiting and modernizing past projects, incorporating best practices and the latest technologies.
 
